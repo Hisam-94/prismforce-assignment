@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/sol
 .pnp.js
 
 # testing
@@ -21,3 +22,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Local Netlify folder
+.netlify
+
+.vercel
